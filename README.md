@@ -1,1 +1,1 @@
-# vanier-capstone-project
+# Vanier Capstone Project

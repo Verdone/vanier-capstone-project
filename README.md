@@ -1,1 +1,1 @@
-# Vanier Capstone Project
+# Capstone Project - CEGEP Vanier College, Computer Science and Mathematics

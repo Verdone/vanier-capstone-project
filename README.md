@@ -6,10 +6,14 @@ For the last semester of the 200.C0 program at Vanier College, a capstone projec
 
 Our group created two educational and interactive simulations related to physics: the first was for Newton's laws of motion, and the second was for standing waves. Laurenz and I were responsible for programming and designing the standing waves simulation.
 
-The tools used for this project were Java, JavaFX, and CSS — while JSON was also used to fetch data and pictures relating to the simulations.
+The tools used for this project were 
+Java, JavaFX, &
+CSS — while JSON was also used to fetch data and pictures relating to the simulations.
 
 My final grade for this class was 100%. If you are stumbling upon this repo and are a student at Vanier working on their capstone project right now, good luck!
 
-#### Additional Information
+### Additional Information
 
 Check out the download page for the [JSON-simple JAR](https://code.google.com/archive/p/json-simple/downloads) file along with the one for [JavaFX](https://gluonhq.com/products/javafx/) and [how to run it](https://openjfx.io/openjfx-docs/), as these are necessary to run the desktop application on a device.
+
+### Gallery

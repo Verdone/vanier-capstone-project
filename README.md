@@ -20,3 +20,9 @@ My final grade for this class was 100%. If you are stumbling upon this repo and 
 Check out the download page for the [JSON-simple JAR](https://code.google.com/archive/p/json-simple/downloads) file along with the one for [JavaFX](https://gluonhq.com/products/javafx/) and [how to run it](https://openjfx.io/openjfx-docs/), as these are necessary to run the desktop application on a device.
 
 ### Gallery
+
+Showcase 
+(Picture 1)
+
+Showcase 
+(Picture 1)

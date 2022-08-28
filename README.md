@@ -1,5 +1,5 @@
 # Capstone Project - CEGEP Vanier College, Computer Science and Mathematics Program
-## Authors: [Laurenz Marius Gomez](https://github.com/GolimarGit) | [Jatin Kalsi](https://github.com/jateen67) | [Giuliano Verdone](https://github.com/Verdone) | [Joshua Vilda](https://github.com/Gecko30)
+## By: [Laurenz Marius Gomez](https://github.com/GolimarGit) | [Jatin Kalsi](https://github.com/jateen67) | [Giuliano Verdone](https://github.com/Verdone) | [Joshua Vilda](https://github.com/Gecko30)
 
 ### Summary
 For the last semester of the 200.C0 program at Vanier College, a capstone project was assigned to groups of students that would reflect what was taught in previous courses. Aside from coding, students were taught about Scrum/Agile workflows, the software development cycle, how to breakdown project activites with Trello, write PCA Reports, and eventually presented their projects in-class. In this repository, the code for the application has been made accessible.

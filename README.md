@@ -23,14 +23,14 @@ Check out the download page for the [JSON-simple JAR](https://code.google.com/ar
 
 Newton's laws of motion simulation showcase - enter values for applied force, mass, and friction force, then behold!
 <p align="center">
-  <a href="https://user-images.githubusercontent.com">
+  <a href="https://user-images.githubusercontent.com/106696411/181864350-9199989d-fab8-470e-99b9-d8df47324afd.gif">
     <img src="https://user-images.githubusercontent.com/106696411/181864350-9199989d-fab8-470e-99b9-d8df47324afd.gif" />
   </a>
 </p>
 
 Stationary/Standing wave simulation showcase - enter values for frequency, wave speed, and amplitude, then behold!
 <p align="center">
-  <a href="https://user-images.githubusercontent.com">
+  <a href="https://user-images.githubusercontent.com/106696411/181864350-9199989d-fab8-470e-99b9-d8df47324afd.gif>
     <img src="https://user-images.githubusercontent.com/106696411/181864363-5cf83c29-6752-4c07-88ba-c76c59b8ee39.gif" />
   </a>
 </p>
